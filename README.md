@@ -1,4 +1,4 @@
-# AWS: Cloud Servers
+# AWS: Cloud Server
 
 Practice auto-deploying using Elastic Beanstalk
 
@@ -9,6 +9,8 @@ Practice auto-deploying using Elastic Beanstalk
 ### Links and Resources
 
 -[Repo](https://github.com/catdude2000/cloud-server)  
+[Deployed from EB Console](http://aws-lab16-roledone-env.eba-4idn32fa.us-east-2.elasticbeanstalk.com/)
+[Deployed from CLI](http://express-server-aws.eba-xiyp385e.us-east-2.elasticbeanstalk.com/)
 
 ### Collaborators  
 
@@ -18,6 +20,7 @@ John Cokos, Codefellows
 
 clone repo  
 `npm i`  
+Follow Below
 
 ## Overview
 
